@@ -10,11 +10,11 @@ To democratize access to decentralized financial services and applications, enha
 ## Key Features <img src="https://github.com/RizzOnSolana/.github/assets/161975417/61904117-60af-45f7-aab6-be2a40c599fb" width="20" height="20" alt="logo">
 
 - **High Throughput Transactions:** Utilize Solana's high-speed blockchain to offer fast and low-cost transactions
-- **AI-Powered Analytics:**. <img src="https://github.com/RizzOnSolana/.github/assets/161975417/161975417/00a57ad6-ddc5-4644-a76a-426154c88af4" width="20" height="20" alt="logo">
+- **AI-Powered Analytics:**. <img src="https://github.com/RizzOnSolana/.github/assets/161975417/ee08c15e-0750-4ef6-80ea-a60c332cfcdf" width="20" height="20" alt="logo">
 Incorporating machine learning models to provide real-time analytics and insights for decentralized finance (DeFi) applications.
 - **Smart Contract Automation:** Use AI to enhance smart contract functionality, enabling more complex and responsive decentralized applications (DApps).
 
-## Technologies Used <img src="https://github.com/RizzOnSolana/.github/assets/161975417/161975417/a2068be7-7072-400b-96a1-41545b5e53af" width="20" height="20" alt="logo">
+## Technologies Used
 RizzOnSolana combines the robustness of blockchain with the flexibility of AI to create a unique ecosystem:
 
 - **Blockchain:** <img src="https://github.com/RizzOnSolana/.github/assets/161975417/09266534-06e9-47db-b0a6-c9ca9005274f" width="20" height="20" alt="logo">
