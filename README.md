@@ -1,4 +1,5 @@
-# RizzOnSolana ![RizzOnSolana Logo](https://via.placeholder.com/50)
+# RizzOnSolana ![logo (1)](https://github.com/RizzOnSolana/.github/assets/161975417/e21e668f-aff1-4714-89aa-7479cb658a7b)
+
 
 Welcome to RizzOnSolana, a pioneering initiative at the intersection of blockchain technology and artificial intelligence, aimed at revolutionizing decentralized applications by leveraging the Solana blockchain's high-performance capabilities alongside cutting-edge AI technologies.
 
