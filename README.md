@@ -3,7 +3,8 @@
 
 Welcome to RizzOnSolana, a pioneering initiative at the intersection of blockchain technology and artificial intelligence, aimed at revolutionizing decentralized applications by leveraging the Solana blockchain's high-performance capabilities alongside cutting-edge AI technologies.
 
-## Our Mission <img src="[https://github.com/RizzOnSolana/.github/assets/161975417/e21e668f-aff1-4714-89aa-7479cb658a7b](https://github.com/RizzOnSolana/.github/assets/161975417/6bce698e-4802-47d4-af0a-85f798fa8e8e)" width="50" height="50" alt="logo">
+## Our![free-rocket-icon-3432-thumb](https://github.com/RizzOnSolana/.github/assets/161975417/a803bb36-29ca-43d9-8479-954f20707a20)
+ Mission <img src="[https://github.com/RizzOnSolana/.github/assets/161975417/e21e668f-aff1-4714-89aa-7479cb658a7b](https://github.com/RizzOnSolana/.github/assets/161975417/6bce698e-4802-47d4-af0a-85f798fa8e8e)" width="50" height="50" alt="logo">
 
 To democratize access to decentralized financial services and applications, enhancing user experience and operational efficiency through the integration of AI-driven insights and automation on the Solana blockchain.
 
