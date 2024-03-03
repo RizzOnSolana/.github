@@ -7,7 +7,8 @@ Welcome to RizzOnSolana, a pioneering initiative at the intersection of blockcha
 
 To democratize access to decentralized financial services and applications, enhancing user experience and operational efficiency through the integration of AI-driven insights and automation on the Solana blockchain.
 
-## Key Features ![Features Icon](https://via.placeholder.com/20)
+## Key Features ![2735639](https://github.com/RizzOnSolana/.github/assets/161975417/61904117-60af-45f7-aab6-be2a40c599fb)
+
 
 - **High Throughput Transactions:** ![Speed Icon](https://via.placeholder.com/15) Utilize Solana's high-speed blockchain to offer fast and low-cost transactions.
 - **AI-Powered Analytics:** ![AI Icon](https://via.placeholder.com/15) Incorporating machine learning models to provide real-time analytics and insights for decentralized finance (DeFi) applications.
