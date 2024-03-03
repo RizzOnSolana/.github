@@ -14,34 +14,37 @@ To democratize access to decentralized financial services and applications, enha
 Incorporating machine learning models to provide real-time analytics and insights for decentralized finance (DeFi) applications.
 - **Smart Contract Automation:** Use AI to enhance smart contract functionality, enabling more complex and responsive decentralized applications (DApps).
 
-## Technologies Used ![Tech Icon](https://via.placeholder.com/20)
+## Technologies Used ![ccdb34f9ac438aacc58255ff426c3564](https://github.com/RizzOnSolana/.github/assets/161975417/a2068be7-7072-400b-96a1-41545b5e53af)
 
 RizzOnSolana combines the robustness of blockchain with the flexibility of AI to create a unique ecosystem:
 
-- **Blockchain:** ![Blockchain Icon](https://via.placeholder.com/15) Utilizing Solana for its unparalleled transaction speed and efficiency.
-- **AI & Machine Learning:** ![Machine Learning Icon](https://via.placeholder.com/15) Leveraging TensorFlow for building and deploying machine learning models that enhance decision-making and operational efficiency. GPT-3 is used for processing natural language queries, allowing for an intuitive interaction layer between users and blockchain services.
-- **Web3 Technologies:** ![Web3 Icon](https://via.placeholder.com/15) Implementing web3.js and the Solana Web3 SDK for seamless interactions between web applications and the Solana blockchain.
-- **Data Storage:** ![Storage Icon](https://via.placeholder.com/15) Integrating IPFS for secure and decentralized data storage solutions, ensuring data integrity and accessibility.
-- **Frontend Development:** ![Frontend Icon](https://via.placeholder.com/15) Using React.js to build dynamic and responsive user interfaces that interact seamlessly with blockchain and AI functionalities.
-- **Backend Development:** ![Backend Icon](https://via.placeholder.com/15) Node.js and Express.js serve as the backbone for server-side operations, supporting the application's logic and interactions with blockchain and AI services.
+- **Blockchain:** ![download](https://github.com/RizzOnSolana/.github/assets/161975417/09266534-06e9-47db-b0a6-c9ca9005274f)
+ Utilizing Solana for its unparalleled transaction speed and efficiency.
+- **AI & Machine Learning:**![8618881](https://github.com/RizzOnSolana/.github/assets/161975417/ee08c15e-0750-4ef6-80ea-a60c332cfcdf)
+ Leveraging TensorFlow for building and deploying machine learning models that enhance decision-making and operational efficiency. GPT-4 is used for processing natural language queries, allowing for an intuitive interaction layer between users and blockchain services.
+- **Web3 Technologies:** ![4863023](https://github.com/RizzOnSolana/.github/assets/161975417/b1fa1495-2d38-40f6-acf3-187c3d06ccee)
+ Implementing web3.js and the Solana Web3 SDK for seamless interactions between web applications and the Solana blockchain.
+- **Data Storage:** ![Ipfs-logo-1024-ice-text](https://github.com/RizzOnSolana/.github/assets/161975417/d721ef1e-0db0-4f17-b9ac-b08ed5fad3e3) Integrating IPFS for secure and decentralized data storage solutions, ensuring data integrity and accessibility.
+- **Frontend Development:** Using Next.jsto build dynamic and responsive user interfaces that interact seamlessly with blockchain and AI functionalities.
+- **Backend Development:** Node.js and Express.js serve as the backbone for server-side operations, supporting the application's logic and interactions with blockchain and AI services.
 
-## Getting Started ![Start Icon](https://via.placeholder.com/20)
+## Getting Started ![start (1)](https://github.com/RizzOnSolana/.github/assets/161975417/fb1f7c82-513a-4a10-847d-7f30a1cdf4af)
+
 
 [Follow the setup instructions as previously outlined]
 
-## Contributing ![Contributing Icon](https://via.placeholder.com/20)
+## Contributing
 
-We welcome contributions from the community. Whether it's feature requests, bug fixes, or code contributions, please feel free to make a contribution. For more details, see our [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License ![License Icon](https://via.placeholder.com/20)
+We welcome contributions from the community. Whether it's feature requests, bug fixes, or code contributions.
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact ![Contact Icon](https://via.placeholder.com/20)
+## Contact: https://linktr.ee/rizzsol
 
 For more information, contact the RizzOnSolana team at [Your Contact Information].
 
-## Acknowledgements ![Thanks Icon](https://via.placeholder.com/20)
+## Acknowledgements
 
 - [Solana Foundation](https://solana.com/)
 - [TensorFlow](https://www.tensorflow.org/)
